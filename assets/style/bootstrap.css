@@ -6834,7 +6834,7 @@ button.close {
 }
 
 .portfolio-items .portfolio-image.mario {
-  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_500,c_fit/v1455151350/Mario_x5tlj6.jpg);
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_500,c_fit/v1456275800/mario_vibvlj.png);
   background-size: cover;
 }
 
@@ -6852,6 +6852,63 @@ button.close {
   background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1455151340/eye_catcher_whtvrv.jpg);
   background-size: cover;
 }
+
+.portfolio-items .portfolio-image.pbr {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1455151340/2015_Drink___Draw_kgjzkx.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.eye-catcher2 {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1455151340/eye_catcher_whtvrv.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.hand {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276164/_DSC0449_evsvaa.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.ducky {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276140/mrducky_danjohns_dbb30g.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.funky-face1 {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276161/_DSC0461_bxejnn.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.funky-face2 {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276142/visionquestedit_h0jaly.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.funky-face3 {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276154/IMG_2960_m7sjqn.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.lucky-hand {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276164/_DSC0449_evsvaa.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.wings {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276151/IMG_2964_xyuyy1.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.cactus {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276150/bluedessertedit_uns3bh.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.lucky-hand {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276164/_DSC0449_evsvaa.jpg);
+  background-size: cover;
+}
+
+
 
 
 .portfolio-items a {
