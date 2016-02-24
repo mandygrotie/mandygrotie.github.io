@@ -6829,6 +6829,31 @@ button.close {
 .portfolio-items {
   /*    * Filtering configuration    */
 }
+.portfolio-items .portfolio-image {
+  height: 274px;
+}
+
+.portfolio-items .portfolio-image.mario {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_500,c_fit/v1455151350/Mario_x5tlj6.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.storm-troopah {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_500,c_fit/v1455151365/Storm_Troopah_tjv2iw.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.luigi {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_500,c_fit/v1455151348/Luigi_ggcxca.jpg);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.eye-catcher {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1455151340/eye_catcher_whtvrv.jpg);
+  background-size: cover;
+}
+
+
 .portfolio-items a {
   position: relative;
   display: block;
