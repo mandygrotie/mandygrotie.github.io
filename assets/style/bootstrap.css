@@ -6903,10 +6903,17 @@ button.close {
   background-size: cover;
 }
 
-.portfolio-items .portfolio-image.lucky-hand {
-  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276164/_DSC0449_evsvaa.jpg);
+.portfolio-items .portfolio-image.dino {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276145/mrdino_danjohns1_txghgi.jpg);
   background-size: cover;
 }
+
+.portfolio-items .portfolio-image.art-oh {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1455151346/Art_Ooh_nako2f.jpg);
+  background-size: cover;
+}
+
+
 
 
 
