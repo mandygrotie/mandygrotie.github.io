@@ -6904,14 +6904,59 @@ button.close {
 }
 
 .portfolio-items .portfolio-image.dino {
-  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1456276145/mrdino_danjohns1_txghgi.jpg);
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1456276145/mrdino_danjohns1_txghgi.jpg);
   background-size: cover;
 }
 
 .portfolio-items .portfolio-image.art-oh {
-  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/v1455151346/Art_Ooh_nako2f.jpg);
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1455151346/Art_Ooh_nako2f.jpg);
   background-size: cover;
 }
+
+.portfolio-items .portfolio-image.troopah-head {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658771/storm_troopah_jey8xf.png);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.duckys {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658761/mrducky_qxzwzv.png);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.octo-pussy {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658765/octopussy_copy_am7tbs.png);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.balloon-head {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658749/balloon_head_g0sd04.png);
+  background-size: cover;
+}
+.portfolio-items .portfolio-image.heart-sticker {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658779/flyingheartsticker_qnmdfq.png);
+  background-size: cover;
+}
+.portfolio-items .portfolio-image.eye-am-eye {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658777/eye_am_eye_sgundh.png);
+  background-size: cover;
+}
+
+.portfolio-items .portfolio-image.best-budds {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658772/best_buds_ydcyvm.png);
+  background-size: cover;
+}
+
+
+.portfolio-items .portfolio-image.artooh {
+  background: url(http://res.cloudinary.com/djjldnjz7/image/upload/w_1000/v1457658760/art_ooh_bhmyut.png);
+  background-size: cover;
+}
+
+
+
+
+
+
 
 
 
